@@ -1,5 +1,7 @@
 Coin name / symbol : Zenad / ZND
 
+Logo : [img]https://i.imgur.com/LoBAL04.png[/img]
+
 Announcement : https://bitcointalk.org/index.php?topic=5035918.msg46062339#msg46062339
 
 Github : https://github.com/zenadreborn/zenad_v2
