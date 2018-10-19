@@ -14,4 +14,4 @@ Exchange : https://graviex.net/markets/zndbtc
 
 Discord : https://discord.gg/yjyJZgE
 
-Masternode Online : https://masternodes.online/currencies/ZND/
+Masternodes Online : https://masternodes.online/currencies/ZND/
