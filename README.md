@@ -1,4 +1,4 @@
-Coin name / symbol : Zenad / ZND
+Coin name / ticker : Zenad / ZND
 
 Logo : https://imgur.com/LoBAL04
 
@@ -15,5 +15,7 @@ Exchange : https://graviex.net/markets/zndbtc
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
+
+Coinlib : https://coinlib.io/coin/ZND/Zenad
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
