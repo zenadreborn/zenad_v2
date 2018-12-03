@@ -22,4 +22,6 @@ Coingecko : https://www.coingecko.com/en/coins/zenad
 
 Coinlib : https://coinlib.io/coin/ZND/Zenad
 
+Coincodex: https://coincodex.com/crypto/zenad/
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
