@@ -10,7 +10,7 @@ Github : https://github.com/zenadreborn/zenad_v2
 
 Explorer 1 : http://78.97.54.58:3001/
 
-Explorer 2 : http://62.121.95.120:3001/
+Explorer 2 : http://84.117.32.177:3001/
 
 Explorer 3 : http://68.183.218.223:3001/
 
