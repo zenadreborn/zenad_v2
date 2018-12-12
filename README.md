@@ -14,6 +14,8 @@ Explorer 2 : http://62.121.95.120:3001/
 
 Exchange : https://graviex.net/markets/zndbtc
 
+Exchange: https://cratex.io/index.php?pair=ZND/BTC
+
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
