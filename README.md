@@ -12,6 +12,8 @@ Explorer 1 : http://78.97.54.58:3001/
 
 Explorer 2 : http://62.121.95.120:3001/
 
+Explorer 3 : http://68.183.218.223:3001/
+
 Exchange : https://graviex.net/markets/zndbtc
 
 Exchange: https://cratex.io/index.php?pair=ZND/BTC
