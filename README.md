@@ -30,4 +30,6 @@ Coincodex: https://coincodex.com/crypto/zenad/
 
 Coinpaprika: https://coinpaprika.com/coin/znd-zenad/
 
+Worldcoinindex: https://www.worldcoinindex.com/coin/zenad
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
