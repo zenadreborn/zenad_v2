@@ -34,4 +34,6 @@ Worldcoinindex: https://www.worldcoinindex.com/coin/zenad
 
 Coinlore: https://www.coinlore.com/coin/zenad
 
+Cryptocompare: https://www.cryptocompare.com/coins/znd/overview
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
