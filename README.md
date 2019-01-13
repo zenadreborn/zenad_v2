@@ -38,6 +38,8 @@ Cryptocompare: https://www.cryptocompare.com/coins/znd/overview
 
 Coinadviser: https://coinadviser.info/coin/ZND-Zenad
 
+Pro-Blockchain: https://pro-blockchain.com/en/masternodes?MasternodeSearch%5Bname%5D=zenad
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
 
 NodeCheck: https://nodecheck.io/masternode/index
