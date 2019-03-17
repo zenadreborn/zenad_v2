@@ -8,9 +8,7 @@ Announcement : https://bitcointalk.org/index.php?topic=5035918.msg46062339#msg46
 
 Github : https://github.com/zenadreborn/zenad_v2
 
-Explorer 1 : http://78.97.54.58:3001/
-
-Explorer 2 : http://68.183.218.223:3001/
+Explorer : http://68.183.218.223:3001/
 
 Exchange : https://graviex.net/markets/zndbtc
 
