@@ -36,6 +36,8 @@ Coinstats: https://coinstats.app/liveprices/zenad
 
 Coinadviser: https://coinadviser.info/coin/ZND-Zenad
 
+Cointrendz: https://cointrendz.com/
+
 Pro-Blockchain: https://pro-blockchain.com/en/masternodes?MasternodeSearch%5Bname%5D=zenad
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
