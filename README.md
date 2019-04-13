@@ -38,6 +38,8 @@ Coinadviser: https://coinadviser.info/coin/ZND-Zenad
 
 Cointrendz: https://cointrendz.com/
 
+Delta: https://delta.app/en
+
 Pro-Blockchain: https://pro-blockchain.com/en/masternodes?MasternodeSearch%5Bname%5D=zenad
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
