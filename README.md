@@ -14,6 +14,10 @@ Exchange : https://graviex.net/markets/zndbtc
 
 Exchange: https://cratex.io/index.php?pair=ZND/BTC
 
+Exchange: https://trade.mct.plus/
+
+Exchange: https://tradecx.io/markets/zndbtc
+
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
