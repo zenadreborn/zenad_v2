@@ -10,6 +10,8 @@ Github : https://github.com/zenadreborn/zenad_v2
 
 Explorer : http://68.183.218.223:3001/
 
+Explorer2 : https://znd.ccore.online/
+
 Exchange : https://graviex.net/markets/zndbtc
 
 Exchange: https://cratex.io/index.php?pair=ZND/BTC
