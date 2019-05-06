@@ -46,6 +46,8 @@ Delta: https://delta.app/en
 
 Pro-Blockchain: https://pro-blockchain.com/en/masternodes?MasternodeSearch%5Bname%5D=zenad
 
+Coincost: http://coincost.net/en/currency/zenad?from=search
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
 
 NodeCheck: https://nodecheck.io/masternode/index
