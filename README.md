@@ -48,6 +48,8 @@ Pro-Blockchain: https://pro-blockchain.com/en/masternodes?MasternodeSearch%5Bnam
 
 Coincost: http://coincost.net/en/currency/zenad?from=search
 
+ATHDA: https://athda.com/coin/zenad
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
 
 NodeCheck: https://nodecheck.io/masternode/index
