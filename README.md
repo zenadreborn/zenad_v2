@@ -52,6 +52,8 @@ ATHDA: https://athda.com/coin/zenad
 
 Livecoinstats: http://www.livecoinstats.com/currencies/ZND/USD/
 
+Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
 
 NodeCheck: https://nodecheck.io/masternode/index
