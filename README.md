@@ -50,6 +50,8 @@ Coincost: http://coincost.net/en/currency/zenad?from=search
 
 ATHDA: https://athda.com/coin/zenad
 
+Livecoinstats: http://www.livecoinstats.com/currencies/ZND/USD/
+
 Masternodes Online : https://masternodes.online/currencies/ZND/
 
 NodeCheck: https://nodecheck.io/masternode/index
