@@ -66,6 +66,8 @@ Athcoinindex: https://athcoinindex.com/coin/zenad
 
 Awebanalysis: https://awebanalysis.com/en/coin-details/zenad-znd/technology/
 
+Virtualstamp.Thank you: https://virtualstamp.io/currencies/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
