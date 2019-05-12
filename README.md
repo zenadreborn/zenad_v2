@@ -62,6 +62,8 @@ Coinpredictor: https://coinpredictor.io/zenad-znd
 
 Reliablecoin: https://www.reliablecoin.com/coin/zenad-znd/
 
+Athcoinindex: https://athcoinindex.com/coin/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
