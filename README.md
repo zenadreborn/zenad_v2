@@ -58,6 +58,8 @@ Cryptopriceranks: https://cryptopriceranks.com/currencies/zenad/
 
 Coingolive: https://coingolive.com/en/coins/zenad/
 
+Coinpredictor: https://coinpredictor.io/zenad-znd
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
