@@ -68,6 +68,8 @@ Awebanalysis: https://awebanalysis.com/en/coin-details/zenad-znd/technology/
 
 Virtualstamp: https://virtualstamp.io/currencies/zenad/
 
+Coinpress Blocksera: https://coinpress.blocksera.com/currencies/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
