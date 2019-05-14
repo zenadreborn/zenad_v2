@@ -70,6 +70,8 @@ Virtualstamp: https://virtualstamp.io/currencies/zenad/
 
 Coinpress Blocksera: https://coinpress.blocksera.com/currencies/zenad/
 
+Kryptonotowania : https://www.kryptonotowania.pl/moneta/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
