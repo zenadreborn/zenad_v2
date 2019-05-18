@@ -76,6 +76,8 @@ CMC.IO: https://cmc.io/coins/zenad
 
 Chasing-coins: https://chasing-coins.com/coin/ZND
 
+Cryptocycap: https://cryptocycap.com/coin/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
