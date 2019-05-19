@@ -2,7 +2,7 @@ Coin name / ticker : Zenad / ZND
 
 Logo : https://imgur.com/LoBAL04
 
-Website : https://www.zenad.online/
+Website : https://zenad.online/
 
 Announcement : https://bitcointalk.org/index.php?topic=5035918.msg46062339#msg46062339
 
