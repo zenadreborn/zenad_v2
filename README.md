@@ -94,6 +94,8 @@ Masternodes.tc: https://www.masternodes.tc/coin/ZND
 
 Crypto Gam-Network: https://crypto.gam-network.de/coin/ZND
 
+It Cryptonews: https://it.cryptonews.com/coins/zenad/
+
 Top Masternodes: https://l2rx.com/?limit=50&sort=0&page=7#ZND
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
