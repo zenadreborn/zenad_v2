@@ -102,6 +102,8 @@ Getpricecoin: https://getpricecoin.com/ee/coin/ZND
 
 Cryptofans Ru: https://cryptofans.ru/crypto/znd/
 
+Clubreisen-24 De: http://clubreisen-24.de/coin/ZND
+
 Top Masternodes: https://l2rx.com/?limit=50&sort=0&page=7#ZND
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
