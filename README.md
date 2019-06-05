@@ -108,6 +108,8 @@ Globalcoinlisting: https://globalcoinlisting.com/currency/zenad
 
 Blockspot: https://blockspot.io/coin/zenad/
 
+Coinmarket Tools: https://coinmarket.tools/coin/ZND
+
 Top Masternodes: https://l2rx.com/?limit=50&sort=0&page=7#ZND
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
