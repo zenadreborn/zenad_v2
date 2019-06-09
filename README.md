@@ -22,6 +22,10 @@ Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
 
+IHOSTMN: https://ihostmn.com/hostmn.php?coin=ZND
+
+MyCryptoCloud.nl: https://mycryptocloud.nl/
+
 Coingecko : https://www.coingecko.com/en/coins/zenad
 
 Coinlib : https://coinlib.io/coin/ZND/Zenad
