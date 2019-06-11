@@ -116,6 +116,8 @@ Coinmarket Tools: https://coinmarket.tools/coin/ZND
 
 Bitverzo: https://bitverzo.com/zenad-znd
 
+Bestcoinlist: https://www.bestcoinlist.com/coins-list/coin/ZND
+
 ICO.Forexdigital: https://ico.forexdigital.net/currencies/zenad/
 
 Top Masternodes: https://l2rx.com/?limit=50&sort=0&page=7#ZND
