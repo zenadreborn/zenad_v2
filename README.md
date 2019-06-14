@@ -122,6 +122,8 @@ ICO.Forexdigital: https://ico.forexdigital.net/currencies/zenad/
 
 Crypto365: https://crypto365.nl/cryptocurrency/zenad/
 
+Nomics: https://nomics.com/assets/znd-zenad
+
 Top Masternodes: https://l2rx.com/?limit=50&sort=0&page=7#ZND
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
