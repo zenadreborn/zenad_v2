@@ -40,6 +40,8 @@ Coinlore: https://www.coinlore.com/coin/zenad
 
 Cryptocompare: https://www.cryptocompare.com/coins/znd/overview
 
+Livecoinwatch: https://www.livecoinwatch.com/price/Zenad-ZND
+
 Coinstats: https://coinstats.app/liveprices/zenad
 
 Coinadviser: https://coinadviser.info/coin/ZND-Zenad
