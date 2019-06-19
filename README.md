@@ -26,6 +26,8 @@ IHOSTMN: https://ihostmn.com/hostmn.php?coin=ZND
 
 MyCryptoCloud.nl: https://mycryptocloud.nl/
 
+Masternodes.biz: https://masternodes.biz/coindetail.php?c=ZND
+
 Coingecko : https://www.coingecko.com/en/coins/zenad
 
 Coinlib : https://coinlib.io/coin/ZND/Zenad
