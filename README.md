@@ -144,6 +144,8 @@ Allcryptolive: https://www.allcryptolive.com/coin/ZND
 
 Viewbase: https://www.viewbase.com/coin/zenad
 
+Cryptocurrency360: https://cryptocurrency360.com/live/coin/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
