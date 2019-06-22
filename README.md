@@ -28,7 +28,9 @@ MyCryptoCloud.nl: https://mycryptocloud.nl/
 
 Delion: https://delion.host/dashboard.php
 
-Masternodes.biz: https://masternodes.biz/coindetail.php?c=ZND
+Masternodes Biz: https://masternodes.biz/coindetail.php?c=ZND
+
+Maternode Buzz: https://coins.masternode.buzz/ZND
 
 Coingecko : https://www.coingecko.com/en/coins/zenad
 
