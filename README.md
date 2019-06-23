@@ -156,6 +156,8 @@ Cryptocanary: https://cryptocanary.app/review/Zenad
 
 CoinsCalendar: https://coinscalendar.com/coin/zenad-znd
 
+Cryptolist  Club: https://cryptolist.club/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
