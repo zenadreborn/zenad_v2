@@ -162,6 +162,8 @@ Moonstats: https://www.moonstats.com/znd-zenad
 
 Cryptograf: https://cryptograf.io/
 
+Cryptocurrencymarket UK: https://www.cryptocurrencymarket.uk/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
