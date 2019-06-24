@@ -160,6 +160,8 @@ Cryptolist  Club: https://cryptolist.club/currency/zenad
 
 Moonstats: https://www.moonstats.com/znd-zenad
 
+Cryptograf: https://cryptograf.io/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
