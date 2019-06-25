@@ -168,6 +168,8 @@ Mcoins EU: https://www.mcoins.eu/en/zenad
 
 Runcoders: https://cointable5.runcoders.com/currency/zenad
 
+Livecrypto GR: https://www.livecrypto.gr/coin/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
