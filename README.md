@@ -172,6 +172,8 @@ Livecrypto GR: https://www.livecrypto.gr/coin/ZND
 
 Cryptodnes BG: https://cryptodnes.bg/coins/zenad
 
+Cryption DE: https://cryption.de/coin/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
