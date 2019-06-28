@@ -174,6 +174,8 @@ Cryptodnes BG: https://cryptodnes.bg/coins/zenad
 
 Cryption DE: https://cryption.de/coin/ZND
 
+Kripto Koin: https://kriptokoin.com/coin/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
