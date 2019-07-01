@@ -180,6 +180,8 @@ Cryptotophost: https://cryptotophost.com/coin/znd/
 
 Cryptoverzicht NL: http://cryptoverzicht.nl/currency/zenad
 
+Base.info: https://base.info/coins/zenad#
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
