@@ -188,6 +188,8 @@ ADVFN: https://www.advfn.com/crypto/Zenad-ZND
 
 Cryptolot RU: https://cryptolot.ru/kurs-znd
 
+Cryptocurrencyvalue: https://cryptocurrencyvalue.net/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
