@@ -196,6 +196,8 @@ Cryptocurrency-advisors: https://cryptocurrency-advisors.com/currency/zenad
 
 Coinexpressway: https://coinexpressway.com/Coin/zenad
 
+Coinmarket Dmfcoin: https://coinmarket.dmfcoin.live/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
