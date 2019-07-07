@@ -198,6 +198,8 @@ Coinexpressway: https://coinexpressway.com/Coin/zenad
 
 Coinmarket Dmfcoin: https://coinmarket.dmfcoin.live/currency/zenad
 
+Coinmarketprice CO UK: https://coinmarketprice.co.uk/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
