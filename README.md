@@ -202,6 +202,8 @@ Coinmarketprice CO UK: https://coinmarketprice.co.uk/currency/zenad
 
 Starttradingcom: https://starttrading.com/currencies/zenad/
 
+Bitmoner: https://bitmoner.com/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
