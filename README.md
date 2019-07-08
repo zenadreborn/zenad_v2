@@ -204,6 +204,8 @@ Starttradingcom: https://starttrading.com/currencies/zenad/
 
 Bitmoner: https://bitmoner.com/currency/zenad
 
+Blockchainwhispers: https://blockchainwhispers.com/zenad-price/#
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
