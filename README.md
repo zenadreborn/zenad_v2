@@ -210,6 +210,8 @@ Coinexchangedata: https://coinexchangedata.com/master-nodes/zenad
 
 Coinoxid: https://www.coinoxid.com/cryptocurrency/zenad
 
+NBQ: http://nbq.io/coin/zenad-znd/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
