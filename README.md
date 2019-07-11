@@ -214,6 +214,8 @@ NBQ: http://nbq.io/coin/zenad-znd/
 
 Awebanalysis: https://awebanalysis.com/en/coin-details/zenad-znd/
 
+CoinArbitrageBot: https://coinarbitragebot.com/price/zenad.html
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
