@@ -216,6 +216,8 @@ Awebanalysis: https://awebanalysis.com/en/coin-details/zenad-znd/
 
 CoinArbitrageBot: https://coinarbitragebot.com/price/zenad.html
 
+Coinhodler: https://coinhodler.io/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
