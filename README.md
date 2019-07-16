@@ -218,6 +218,8 @@ CoinArbitrageBot: https://coinarbitragebot.com/price/zenad.html
 
 Coinhodler: https://coinhodler.io/
 
+BTC-ECHO DE: https://www.btc-echo.de/kurs/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
