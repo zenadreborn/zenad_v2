@@ -220,6 +220,8 @@ Coinhodler: https://coinhodler.io/
 
 BTC-ECHO DE: https://www.btc-echo.de/kurs/zenad/
 
+Coinguys: https://coinguys.xyz/cotacao/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
