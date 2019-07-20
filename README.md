@@ -224,6 +224,8 @@ Coinguys: https://coinguys.xyz/cotacao/zenad/
 
 Coingnu: https://coingnu.com/en/stat/coins/ZND
 
+Criptomoneda Ninja: https://criptomoneda.ninja/cotizacion-precio/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
