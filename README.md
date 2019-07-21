@@ -228,6 +228,8 @@ Criptomoneda Ninja: https://criptomoneda.ninja/cotizacion-precio/zenad/
 
 Crypto-einkauf: https://crypto-einkauf.com/altcoins/
 
+POSList: https://poslist.org/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
