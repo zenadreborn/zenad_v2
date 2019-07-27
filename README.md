@@ -234,6 +234,8 @@ DoingCoin: https://doingcoin.net/currency/zenad
 
 Blockchaintd: https://blockchaintd.com/prices/zenad
 
+Coinogle: https://coinogle.com/price/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
