@@ -238,6 +238,8 @@ Coinogle: https://coinogle.com/price/zenad/
 
 TheCoinDetective: https://thecoindetective.com/coin/Zenad/2821#
 
+Rates.Ninja: https://rates.ninja/cryptocurrency/zenad?from=search
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
