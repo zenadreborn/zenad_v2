@@ -244,6 +244,8 @@ Coinmarketbox: https://coinmarketbox.com/coin/ZND
 
 Cryptocurrencyvalue: https://cryptocurrencyvalue.net/currency/zenad
 
+CoinsCapture: https://coinscapture.com/coins/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
