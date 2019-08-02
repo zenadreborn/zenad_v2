@@ -248,6 +248,8 @@ CoinsCapture: https://coinscapture.com/coins/ZND
 
 MihanBlockchain: https://mihanblockchain.com/cryptocurrency-prices/zenad/
 
+Cryptopriceranks: https://cryptopriceranks.com/currencies/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
