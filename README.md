@@ -254,6 +254,8 @@ BTCethereum: https://www.btcethereum.com/cryptocurrency/coin/znd
 
 Bitcoinslive: https://www.bitcoinslive.net/coin/ZND
 
+Bankomatfinder: https://www.bankomatfinder.at/nl/kryptowaehrungen/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
