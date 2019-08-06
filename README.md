@@ -258,6 +258,8 @@ Bankomatfinder: https://www.bankomatfinder.at/nl/kryptowaehrungen/zenad
 
 Financialplugins: https://financialplugins.com/products/coincompare-cryptocurrency-market-cap/coin/zenad
 
+Ecoinmix: https://ecoinmix.com/cryptocurrency/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
