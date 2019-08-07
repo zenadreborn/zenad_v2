@@ -260,6 +260,8 @@ Financialplugins: https://financialplugins.com/products/coincompare-cryptocurren
 
 Ecoinmix: https://ecoinmix.com/cryptocurrency/ZND
 
+Forexdigital: https://forexdigital.net/compare/coin/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
