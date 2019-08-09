@@ -264,6 +264,8 @@ Forexdigital: https://forexdigital.net/compare/coin/ZND
 
 Onebitco: https://onebitco.com/currency/zenad
 
+Cryptoprices123: https://cryptoprices123.com/cryptos/znd-zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
