@@ -270,6 +270,8 @@ Altcoincompare: https://altcoincompare.eu/currency/zenad
 
 MyMasternodes Host: https://www.mymasternodes.host/
 
+Coinranking: https://coinranking.com/coin/zenad-znd
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
