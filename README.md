@@ -272,6 +272,8 @@ MyMasternodes Host: https://www.mymasternodes.host/
 
 Coinranking: https://coinranking.com/coin/zenad-znd
 
+Cryptonews: https://cryptonews.com/coins/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
