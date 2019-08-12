@@ -274,6 +274,8 @@ Coinranking: https://coinranking.com/coin/zenad-znd
 
 Cryptonews: https://cryptonews.com/coins/zenad/
 
+Coinpredictor: https://coinpredictor.io/altcoins/bitcoin-zenad-correlation
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
