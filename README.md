@@ -280,6 +280,8 @@ CoinShouter : http://coinshouter.com/coin/ZND
 
 Kryptos Es: https://www.kryptos.es/market/coin/ZND
 
+KVL One: https://kvl.one/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
