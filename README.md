@@ -14,10 +14,6 @@ Exchange : https://graviex.net/markets/zndbtc
 
 Exchange: https://cratex.io/index.php?pair=ZND/BTC
 
-Exchange: https://trade.mct.plus/
-
-Exchange: https://tradecx.io/markets/zndbtc
-
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
@@ -283,6 +279,8 @@ Kryptos Es: https://www.kryptos.es/market/coin/ZND
 KVL One: https://kvl.one/currency/zenad
 
 Kryptokurzy SK: https://kryptokurzy.sk/coin/znd/
+
+Crypto Masaiya: https://crypto.masaiya.biz/coin/ZND
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
