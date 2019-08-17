@@ -284,6 +284,8 @@ Crypto Masaiya: https://crypto.masaiya.biz/coin/ZND
 
 Crypto64: https://www.crypto64.com/currency/zenad
 
+Criptopractic SI:  https://www.kriptopraktik.si/index.php/en/exchange-rates/zenad?currency=USD
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
