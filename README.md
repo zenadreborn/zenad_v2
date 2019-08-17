@@ -282,6 +282,8 @@ Kryptokurzy SK: https://kryptokurzy.sk/coin/znd/
 
 Crypto Masaiya: https://crypto.masaiya.biz/coin/ZND
 
+Crypto64: https://www.crypto64.com/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
