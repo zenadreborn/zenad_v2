@@ -288,6 +288,8 @@ Criptopractic SI:  https://www.kriptopraktik.si/index.php/en/exchange-rates/zena
 
 Cryptocoininvest: https://cryptocoininvest.com/currencies/zenad/
 
+CryptoTrackr:  https://crypto.trackr.live/coins/ZND
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
