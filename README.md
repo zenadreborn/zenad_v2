@@ -292,6 +292,8 @@ CryptoTrackr:  https://crypto.trackr.live/coins/ZND
 
 CoinPrice Money: https://coinprice.money/coin/zenad
 
+CoinPriceToday: https://coinpricetoday.com/coin/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
