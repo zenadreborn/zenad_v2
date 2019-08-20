@@ -294,6 +294,8 @@ CoinPrice Money: https://coinprice.money/coin/zenad
 
 CoinPriceToday: https://coinpricetoday.com/coin/zenad/
 
+Forbino: https://forbino.com/en/exchange-rates/zenad/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
