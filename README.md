@@ -300,6 +300,8 @@ CryptoPrices: https://cryptoprices.com/cryptocurrency/zenad/
 
 Cryptocoinmarket NL: https://cryptocoinmarket.nl/coin/ZND
 
+TheLazyCryptoinvestor : http://www.thelazycryptoinvestor.com/masternodes/
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
