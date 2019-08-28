@@ -304,6 +304,8 @@ TheLazyCryptoinvestor : http://www.thelazycryptoinvestor.com/masternodes/
 
 Cryptoohub: http://www.cryptoohub.net/currency/zenad
 
+Bitplace EU: http://bitplace.eu/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
