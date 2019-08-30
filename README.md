@@ -308,6 +308,8 @@ Bitplace EU: http://bitplace.eu/currency/zenad
 
 CoinslumCap: http://coinslumcap.com/currency/zenad
 
+Geo Blockchain: http://geobc.com/currency/zenad
+
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
