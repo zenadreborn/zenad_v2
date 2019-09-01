@@ -24,6 +24,12 @@ Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
 
+Facebook: https://www.facebook.com/zenad.reborn.5
+
+Masternodes Online : https://masternodes.online/currencies/ZND/
+
+NodeCheck: https://nodecheck.io/masternode/index
+
 IHOSTMN: https://ihostmn.com/hostmn.php?coin=ZND
 
 MyCryptoCloud.nl: https://mycryptocloud.nl/
@@ -320,6 +326,3 @@ Cryptooupdates: http://cryptooupdates.com/currency/zenad
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
-Masternodes Online : https://masternodes.online/currencies/ZND/
-
-NodeCheck: https://nodecheck.io/masternode/index
