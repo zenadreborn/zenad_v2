@@ -56,6 +56,8 @@ Cryptocompare: https://www.cryptocompare.com/coins/znd/overview
 
 Livecoinwatch: https://www.livecoinwatch.com/price/Zenad-ZND
 
+Livecoinstats: http://www.livecoinstats.com/currencies/ZND/USD/
+
 Coinstats: https://coinstats.app/liveprices/zenad
 
 Coinadviser: https://coinadviser.info/coin/ZND-Zenad
@@ -69,8 +71,6 @@ Pro-Blockchain: https://pro-blockchain.com/en/masternodes?MasternodeSearch%5Bnam
 Coincost: http://coincost.net/en/currency/zenad?from=search
 
 ATHDA: https://athda.com/coin/zenad
-
-Livecoinstats: http://www.livecoinstats.com/currencies/ZND/USD/
 
 Cointrendcap: http://cointrendcap.com/currencies/zenad/
 
