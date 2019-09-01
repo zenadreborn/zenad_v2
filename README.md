@@ -4,7 +4,11 @@ Logo : https://imgur.com/LoBAL04
 
 Website : https://zenad.online/
 
+Zenad Web Wallet: http://wallet.zenad.online/
+
 Announcement : https://bitcointalk.org/index.php?topic=5035918.msg46062339#msg46062339
+
+Bitcoingarden: https://bitcoingarden.org/forum/index.php?topic=78877.msg478966#msg478966
 
 Github : https://github.com/zenadreborn/zenad_v2
 
