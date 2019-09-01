@@ -10,6 +10,8 @@ Announcement : https://bitcointalk.org/index.php?topic=5035918.msg46062339#msg46
 
 Bitcoingarden: https://bitcoingarden.org/forum/index.php?topic=78877.msg478966#msg478966
 
+Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
+
 Github : https://github.com/zenadreborn/zenad_v2
 
 Explorer : https://znd.ccore.online/
@@ -324,5 +326,5 @@ Geo Blockchain: http://geobc.com/currency/zenad
 
 Cryptooupdates: http://cryptooupdates.com/currency/zenad
 
-Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
+
 
