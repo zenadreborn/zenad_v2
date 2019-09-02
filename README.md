@@ -326,5 +326,7 @@ Geo Blockchain: http://geobc.com/currency/zenad
 
 Cryptooupdates: http://cryptooupdates.com/currency/zenad
 
+Crypto-News-Flash: https://www.crypto-news-flash.com/zenad-price-chart/
+
 
 
