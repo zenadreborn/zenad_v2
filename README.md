@@ -328,5 +328,7 @@ Cryptooupdates: http://cryptooupdates.com/currency/zenad
 
 Crypto-News-Flash: https://www.crypto-news-flash.com/zenad-price-chart/
 
+Owl-Coin: https://www.owl-coin.com/coins/zenad
+
 
 
