@@ -332,6 +332,8 @@ Owl-Coin: https://www.owl-coin.com/coins/zenad
 
 Price Coinpress: https://price.coinpress.io/coin/ZND
 
+Cryptotime2: http://cryptotime2.com/currency/zenad
+
 
 
 
