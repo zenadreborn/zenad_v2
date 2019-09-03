@@ -330,5 +330,8 @@ Crypto-News-Flash: https://www.crypto-news-flash.com/zenad-price-chart/
 
 Owl-Coin: https://www.owl-coin.com/coins/zenad
 
+Price Coinpress: https://price.coinpress.io/coin/ZND
+
+
 
 
