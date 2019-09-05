@@ -334,6 +334,9 @@ Price Coinpress: https://price.coinpress.io/coin/ZND
 
 Cryptotime2: http://cryptotime2.com/currency/zenad
 
+CryptoBrosef: https://www.cryptobrosef.com/coin/ZND
+
+
 
 
 
