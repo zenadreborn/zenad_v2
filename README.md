@@ -336,6 +336,8 @@ Cryptotime2: http://cryptotime2.com/currency/zenad
 
 CryptoBrosef: https://www.cryptobrosef.com/coin/ZND
 
+Cryptoo1: http://cryptoo1.com/currency/zenad
+
 
 
 
