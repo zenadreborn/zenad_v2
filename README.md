@@ -338,6 +338,8 @@ CryptoBrosef: https://www.cryptobrosef.com/coin/ZND
 
 Cryptoo1: http://cryptoo1.com/currency/zenad
 
+Cointable Btcinhere: https://cointable.btcinhere.com/currency/zenad
+
 
 
 
