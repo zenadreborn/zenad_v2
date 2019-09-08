@@ -344,6 +344,8 @@ CoinsBuzz: http://www.coinsbuzz.com/cryptocurrency/zenad/
 
 Cap Coinissimo: https://cap.coinissimo.com/coin/ZND
 
+Cryptohappening: https://cryptohappening.com/search/?cryptocurrency=Zenad%7Cznd#
+
 
 
 
