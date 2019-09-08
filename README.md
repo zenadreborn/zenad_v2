@@ -340,6 +340,8 @@ Cryptoo1: http://cryptoo1.com/currency/zenad
 
 Cointable Btcinhere: https://cointable.btcinhere.com/currency/zenad
 
+CoinsBuzz: http://www.coinsbuzz.com/cryptocurrency/zenad/
+
 Cap Coinissimo: https://cap.coinissimo.com/coin/ZND
 
 
