@@ -348,6 +348,8 @@ Cryptohappening: https://cryptohappening.com/search/?cryptocurrency=Zenad%7Cznd#
 
 Hyperboon: https://hyperboon.com/currency/zenad
 
+Cryptocoinsmarkt NL: https://cryptocoinsmarkt.nl/coin/ZND
+
 
 
 
