@@ -42,6 +42,8 @@ Masternodes Biz: https://masternodes.biz/coindetail.php?c=ZND
 
 Maternode Buzz: https://coins.masternode.buzz/ZND
 
+Pecunia: https://pecuniaplatform.io/home
+
 Coingecko : https://www.coingecko.com/en/coins/zenad
 
 Coinlib : https://coinlib.io/coin/ZND/Zenad
