@@ -352,6 +352,8 @@ Hyperboon: https://hyperboon.com/currency/zenad
 
 Cryptocoinsmarkt NL: https://cryptocoinsmarkt.nl/coin/ZND
 
+Coins MK Coins Market: https://coins.mk/currency/zenad
+
 
 
 
