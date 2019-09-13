@@ -354,6 +354,7 @@ Cryptocoinsmarkt NL: https://cryptocoinsmarkt.nl/coin/ZND
 
 Coins MK Coins Market: https://coins.mk/currency/zenad
 
+Cryptocurrency Kopen NL: https://cryptocurrencykopen.nl/kopen/zenad/
 
 
 
