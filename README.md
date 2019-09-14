@@ -16,6 +16,8 @@ Github : https://github.com/zenadreborn/zenad_v2
 
 Explorer : https://znd.ccore.online/
 
+CoinMarketCap: https://coinmarketcap.com/currencies/zenad/
+
 Exchange : https://graviex.net/markets/zndbtc
 
 Exchange: https://cratex.io/index.php?pair=ZND/BTC
