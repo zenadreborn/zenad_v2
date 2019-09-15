@@ -358,6 +358,8 @@ Coins MK Coins Market: https://coins.mk/currency/zenad
 
 Cryptocurrency Kopen NL: https://cryptocurrencykopen.nl/kopen/zenad/
 
+Oxu NL: https://oxu.nl/currency/zenad
+
 
 
 
