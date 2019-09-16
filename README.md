@@ -12,6 +12,8 @@ Bitcoingarden: https://bitcoingarden.org/forum/index.php?topic=78877.msg478966#m
 
 Cryptoinforum: https://cryptoinforum.com/viewtopic.php?f=3&t=18539
 
+Cryptocurrencytalk: https://cryptocurrencytalk.com/topic/135115-ann-for-zenad-coin-znd/?tab=comments#comment-537437
+
 Github : https://github.com/zenadreborn/zenad_v2
 
 Explorer : https://znd.ccore.online/
