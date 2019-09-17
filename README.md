@@ -364,6 +364,8 @@ Oxu NL: https://oxu.nl/currency/zenad
 
 IdolBlocks: http://idolblocks.com/currency/zenad
 
+Coindalin: https://www.coindalin.com/twitter/zenad/5185
+
 
 
 
