@@ -366,6 +366,8 @@ IdolBlocks: http://idolblocks.com/currency/zenad
 
 Coindalin: https://www.coindalin.com/twitter/zenad/5185
 
+The Crypto Index: http://www.thecryptoindex.live/currency/zenad
+
 
 
 
