@@ -368,6 +368,8 @@ Coindalin: https://www.coindalin.com/twitter/zenad/5185
 
 The Crypto Index: http://www.thecryptoindex.live/currency/zenad
 
+Coinomarket: https://www.coinomarket.com/coin/ZND
+
 
 
 
