@@ -370,6 +370,8 @@ The Crypto Index: http://www.thecryptoindex.live/currency/zenad
 
 Coinomarket: https://www.coinomarket.com/coin/ZND
 
+BTCSum: https://btcsum.com/charts/coin/ZND
+
 
 
 
