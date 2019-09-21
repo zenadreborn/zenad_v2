@@ -372,6 +372,8 @@ Coinomarket: https://www.coinomarket.com/coin/ZND
 
 BTCSum: https://btcsum.com/charts/coin/ZND
 
+Coinatomy: http://coinatomy.com/currency/zenad
+
 
 
 
