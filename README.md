@@ -376,6 +376,8 @@ Coinatomy: http://coinatomy.com/currency/zenad
 
 CryptoCompare Site: https://cryptocompare.site/currency/zenad
 
+Alt Rs: http://alt.rs/coin/znd
+
 
 
 
