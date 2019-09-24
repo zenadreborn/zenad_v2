@@ -378,6 +378,6 @@ CryptoCompare Site: https://cryptocompare.site/currency/zenad
 
 Alt Rs: http://alt.rs/coin/znd
 
-
+News Smarttradecoin: https://news.smarttradecoin.com/coin/ZND
 
 
