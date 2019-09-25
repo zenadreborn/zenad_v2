@@ -380,4 +380,6 @@ Alt Rs: http://alt.rs/coin/znd
 
 News Smarttradecoin: https://news.smarttradecoin.com/coin/ZND
 
+Cryptolisting: https://cryptolisting.org/coin/znd/widget
+
 
