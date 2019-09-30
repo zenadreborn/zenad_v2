@@ -384,4 +384,6 @@ Cryptolisting: https://cryptolisting.org/coin/znd/widget
 
 Faws: https://faws.com/
 
+Dev Pyramidioncryptocurrency: http://dev.pyramidioncryptocurrency.com/currency/zenad
+
 
