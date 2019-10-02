@@ -386,4 +386,5 @@ Faws: https://faws.com/
 
 Dev Pyramidioncryptocurrency: http://dev.pyramidioncryptocurrency.com/currency/zenad
 
+Chaia: https://www.chaia.io/cryptocurrency-market-cap-media-github/zenad/
 
