@@ -388,3 +388,5 @@ Dev Pyramidioncryptocurrency: http://dev.pyramidioncryptocurrency.com/currency/z
 
 Chaia: https://www.chaia.io/cryptocurrency-market-cap-media-github/zenad/
 
+Krypto Kurse: https://www.kryptowaehrungen-kurse.de/kurs-chart/ZND
+
