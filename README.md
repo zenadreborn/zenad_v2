@@ -393,3 +393,5 @@ Krypto Kurse: https://www.kryptowaehrungen-kurse.de/kurs-chart/ZND
 Cryptodashboard: https://cryptodashboard.org/coin/znd/
 
 Comaps: https://www.comaps.io/coin/zenad
+
+Coinlistplaza: https://coinlistplaza.com/coin/ZND
