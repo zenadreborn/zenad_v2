@@ -395,3 +395,5 @@ Cryptodashboard: https://cryptodashboard.org/coin/znd/
 Comaps: https://www.comaps.io/coin/zenad
 
 Coinlistplaza: https://coinlistplaza.com/coin/ZND
+
+Cryptopro.app: https://cryptopro.app/price/zenad/
