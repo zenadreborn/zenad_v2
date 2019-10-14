@@ -26,6 +26,8 @@ Exchange: https://cratex.io/index.php?pair=ZND/BTC
 
 Exchange: https://northern-exchange.com/exchange/?market=ZND_BTC
 
+Exchange: https://e-ex.pro/
+
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
