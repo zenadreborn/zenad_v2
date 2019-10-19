@@ -28,6 +28,8 @@ Exchange: https://northern-exchange.com/exchange/?market=ZND_BTC
 
 Exchange: https://e-ex.pro/
 
+Exchange: https://www.unnamed.exchange/Exchange?market=ZND_BTC
+
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
