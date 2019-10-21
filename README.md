@@ -405,3 +405,6 @@ Cryptopro.app: https://cryptopro.app/price/zenad/
 Coinpress FR: https://coinpress.fr/crypto-monnaie/zenad/
 
 Coinpath: https://coinpath.io/news/currencies/zenad/
+
+Incryptoview Info: https://incryptoview.info/rub/currencies/zenad/
+
