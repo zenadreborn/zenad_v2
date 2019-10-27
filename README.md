@@ -408,3 +408,5 @@ Coinpath: https://coinpath.io/news/currencies/zenad/
 
 Incryptoview Info: https://incryptoview.info/rub/currencies/zenad/
 
+Lotcoin: http://lotcoin.com/coin/znd
+
