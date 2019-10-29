@@ -410,3 +410,5 @@ Incryptoview Info: https://incryptoview.info/rub/currencies/zenad/
 
 Lotcoin: http://lotcoin.com/coin/znd
 
+Coin Ink: https://www.coin.ink/kryptowaehrungen-kurs/zenad
+
