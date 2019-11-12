@@ -413,3 +413,5 @@ Lotcoin: http://lotcoin.com/coin/znd
 Coin Ink: https://www.coin.ink/kryptowaehrungen-kurs/zenad
 
 Coin Market Info: https://coinmarketinfo.com/coin/ZND
+
+BitcoinPriceChart Au: https://bitcoinpricechart.com.au/coin/znd
