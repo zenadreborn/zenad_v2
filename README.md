@@ -417,3 +417,5 @@ Coin Market Info: https://coinmarketinfo.com/coin/ZND
 BitcoinPriceChart Au: https://bitcoinpricechart.com.au/coin/znd
 
 CryptoWho DE: https://www.cryptowho.de/coins
+
+Golden: https://golden.com/wiki/Zenad
