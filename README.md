@@ -423,3 +423,5 @@ CryptoWho DE: https://www.cryptowho.de/coins
 Golden: https://golden.com/wiki/Zenad
 
 CTSC: https://platform.ctscoin.net/coin/detail/ZND/
+
+PickACrypto: https://www.pickacrypto.com/cryptocurrencies/zenad/
