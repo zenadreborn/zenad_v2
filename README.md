@@ -32,6 +32,8 @@ Exchange: https://www.unnamed.exchange/Exchange?market=ZND_BTC
 
 Exchange: https://needyex.com/trade/index/market/znd_btc/
 
+Zenad Social Platform: https://zenad.site/
+
 Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
