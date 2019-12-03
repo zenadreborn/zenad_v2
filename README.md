@@ -431,3 +431,5 @@ PickACrypto: https://www.pickacrypto.com/cryptocurrencies/zenad/
 Megashare By: https://megashare.by/coin/znd
 
 ICDb: https://www.icdb.co/coin/ZND
+
+My Bitcoin World: http://www.mybitcoin.xyz/currency/zenad
