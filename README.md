@@ -58,6 +58,8 @@ Pecunia: https://pecuniaplatform.io/home
 
 Crypos Masternode Platform: https://crypos.io/
 
+Diamondnodes: http://diamondnodes.com/index.php
+
 Coingecko : https://www.coingecko.com/en/coins/zenad
 
 Coinlib : https://coinlib.io/coin/ZND/Zenad
