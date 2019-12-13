@@ -441,3 +441,5 @@ My Bitcoin World: http://www.mybitcoin.xyz/currency/zenad
 TheCrypto app: https://thecrypto.app/
 
 Cointable BTC in here: https://cointable.btcinhere.com/currency/zenad
+
+Trade Twist: https://tradetwist.com/currency/zenad
