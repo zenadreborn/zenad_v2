@@ -38,7 +38,9 @@ Discord : https://discord.gg/yjyJZgE
 
 Telegram : https://t.me/zenad_reborn
 
-Facebook: https://www.facebook.com/zenad.reborn.5
+Facebook: https://www.facebook.com/zenadcoin
+
+Zenad Coin Social Platform Facebook page: https://www.facebook.com/zenadsocial/
 
 Masternodes Online : https://masternodes.online/currencies/ZND/
 
