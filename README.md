@@ -447,3 +447,5 @@ Cointable BTC in here: https://cointable.btcinhere.com/currency/zenad
 Trade Twist: https://tradetwist.com/currency/zenad
 
 Crypto-price: http://crypto-price.com/coin/ZND
+
+Livecryptotracking: http://livecryptotracking.com/currency/zenad
