@@ -451,3 +451,7 @@ Crypto-price: http://crypto-price.com/coin/ZND
 Livecryptotracking: http://livecryptotracking.com/currency/zenad
 
 Priceprediction: https://www.priceprediction.info/coin/ZND
+
+BeinCrypto: https://beincrypto.com/price/zenad/
+
+Undeniable: https://undeniable.co/coin/znd
