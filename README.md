@@ -455,3 +455,5 @@ Priceprediction: https://www.priceprediction.info/coin/ZND
 BeinCrypto: https://beincrypto.com/price/zenad/
 
 Undeniable: https://undeniable.co/coin/znd
+
+Coindataflow: https://coindataflow.com/en/currency/zenad
