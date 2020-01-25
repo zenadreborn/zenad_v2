@@ -457,3 +457,5 @@ BeinCrypto: https://beincrypto.com/price/zenad/
 Undeniable: https://undeniable.co/coin/znd
 
 Coindataflow: https://coindataflow.com/en/currency/zenad
+
+Bitbasic: https://bitbasic.com/assets/zenad
