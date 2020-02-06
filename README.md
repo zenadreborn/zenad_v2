@@ -459,3 +459,5 @@ Undeniable: https://undeniable.co/coin/znd
 Coindataflow: https://coindataflow.com/en/currency/zenad
 
 Bitbasic: https://bitbasic.com/assets/zenad
+
+Cryptoupdates: http://cryptoupdates.org/currency/zenad
