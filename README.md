@@ -463,3 +463,5 @@ Bitbasic: https://bitbasic.com/assets/zenad
 Cryptoupdates: http://cryptoupdates.org/currency/zenad
 
 Cryptorival: https://cryptorival.com/coins/zenad/
+
+Kryptokantor: http://kryptokantor.com/currency/zenad
