@@ -467,3 +467,5 @@ Cryptorival: https://cryptorival.com/coins/zenad/
 Kryptokantor: http://kryptokantor.com/currency/zenad
 
 Livecoins BR: https://livecoins.com.br/preco/zenad/
+
+Coindar: https://coindar.org/en/coin/zenad
