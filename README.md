@@ -473,3 +473,5 @@ Coindar: https://coindar.org/en/coin/zenad
 Thiban: https://thiban.com/coin/ZND
 
 c50index: https://www.c50index.com/currencies/zenad/
+
+CCTracker: https://cctracker.co/currency/zenad
