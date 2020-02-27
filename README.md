@@ -480,4 +480,6 @@ Livebitcoinmartket: http://livebitcoinmarket.com/currency/zenad
 
 Xirkle: https://www.xirkle.com/coin/ZND
 
+Wezto: http://wezto.com/cryptocurrency/coin/ZND
+
 
