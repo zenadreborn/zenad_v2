@@ -482,4 +482,6 @@ Xirkle: https://www.xirkle.com/coin/ZND
 
 Wezto: http://wezto.com/cryptocurrency/coin/ZND
 
+Cryptomaa: https://cryptomaa.com/coin/ZND/
+
 
