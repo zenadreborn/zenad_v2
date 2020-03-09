@@ -484,4 +484,5 @@ Wezto: http://wezto.com/cryptocurrency/coin/ZND
 
 Cryptomaa: https://cryptomaa.com/coin/ZND/
 
+Cryptosupdates: https://cryptosupdates.com/currency/zenad
 
