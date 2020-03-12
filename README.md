@@ -486,3 +486,5 @@ Cryptomaa: https://cryptomaa.com/coin/ZND/
 
 Cryptosupdates: https://cryptosupdates.com/currency/zenad
 
+Coinmarket NO: https://coinmarket.no/cryptocurrency/zenad/
+
