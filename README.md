@@ -488,3 +488,5 @@ Cryptosupdates: https://cryptosupdates.com/currency/zenad
 
 Coinmarket NO: https://coinmarket.no/cryptocurrency/zenad/
 
+Kriptovalute SI: https://kriptovalute.si/valute/zenad/
+
