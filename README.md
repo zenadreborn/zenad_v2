@@ -16,7 +16,7 @@ Cryptocurrencytalk: https://cryptocurrencytalk.com/topic/135115-ann-for-zenad-co
 
 Github : https://github.com/zenadreborn/zenad_v2
 
-Explorer Clasic: https://znd.ccore.online/
+Explorer Clasic: http://explorer.zenad.online/
 
 Explorer OpenChains: https://openchains.info/coin/zenad/blocks
 
