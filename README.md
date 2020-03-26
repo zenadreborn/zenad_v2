@@ -492,3 +492,9 @@ Coinmarket NO: https://coinmarket.no/cryptocurrency/zenad/
 
 Kriptovalute SI: https://kriptovalute.si/valute/zenad/
 
+BullsInvest: https://www.bullsinvest.com/currencies/zenad
+
+OpenChains: https://openchains.info/coin/zenad/blocks
+
+CoinMonitor NL: https://coinmonitor.nl/currency/zenad
+
