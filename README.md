@@ -498,3 +498,5 @@ OpenChains: https://openchains.info/coin/zenad/blocks
 
 CoinMonitor NL: https://coinmonitor.nl/currency/zenad
 
+CryptosUpdates: https://cryptosupdates.com/currency/zenad
+
