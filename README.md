@@ -500,3 +500,5 @@ CoinMonitor NL: https://coinmonitor.nl/currency/zenad
 
 CryptosUpdates: https://cryptosupdates.com/currency/zenad
 
+Bitcoinheave: https://bitcoinheave.com/coin/ZND
+
