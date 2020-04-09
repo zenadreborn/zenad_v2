@@ -502,3 +502,5 @@ CryptosUpdates: https://cryptosupdates.com/currency/zenad
 
 Bitcoinheave: https://bitcoinheave.com/coin/ZND
 
+Market Crypto-Spot: https://market.crypto-spot.de/coin/ZND
+
