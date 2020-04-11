@@ -504,3 +504,5 @@ Bitcoinheave: https://bitcoinheave.com/coin/ZND
 
 Market Crypto-Spot: https://market.crypto-spot.de/coin/ZND
 
+Capandlist: https://capandlist.com/currency/zenad
+
