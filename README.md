@@ -506,3 +506,5 @@ Market Crypto-Spot: https://market.crypto-spot.de/coin/ZND
 
 Capandlist: https://capandlist.com/currency/zenad
 
+Bitcoinvalue: https://www.bitcoinvalue.com/currencies/zenad/
+
