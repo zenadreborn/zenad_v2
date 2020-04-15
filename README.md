@@ -508,3 +508,5 @@ Capandlist: https://capandlist.com/currency/zenad
 
 Bitcoinvalue: https://www.bitcoinvalue.com/currencies/zenad/
 
+Holdex: https://holdex.io/marketplace/zenad
+
