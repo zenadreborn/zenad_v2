@@ -510,3 +510,4 @@ Bitcoinvalue: https://www.bitcoinvalue.com/currencies/zenad/
 
 Holdex: https://holdex.io/marketplace/zenad
 
+Criptonotizia: https://www.criptonotizia.com/lista-criptovalute/zenad/
