@@ -513,3 +513,5 @@ Holdex: https://holdex.io/marketplace/zenad
 Criptonotizia: https://www.criptonotizia.com/lista-criptovalute/zenad/
 
 CoinUtil: https://coinutil.net/currencies/zenad
+
+Coinbae: https://coinbae.org/coins/ZND/exchanges
