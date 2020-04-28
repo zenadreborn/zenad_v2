@@ -515,3 +515,5 @@ Criptonotizia: https://www.criptonotizia.com/lista-criptovalute/zenad/
 CoinUtil: https://coinutil.net/currencies/zenad
 
 Coinbae: https://coinbae.org/coins/ZND/exchanges
+
+Bitmoneytalk: https://bitmoneytalk.com/znd-zenad-price/
