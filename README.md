@@ -28,11 +28,9 @@ Exchange: https://cratex.io/index.php?pair=ZND/BTC
 
 Exchange: https://northern-exchange.com/exchange/?market=ZND_BTC
 
-Exchange: https://e-ex.pro/
+Exchange: https://biflex.net/exchange/znd-btc
 
 Exchange: https://www.unnamed.exchange/Exchange?market=ZND_BTC
-
-Exchange: https://needyex.com/trade/index/market/znd_btc/
 
 Zenad Social Platform: https://zenad.site/
 
