@@ -523,3 +523,5 @@ Pieket: https://pieket.com/market/crypto/zenad
 CanliKriptoFiyatlari: https://www.canlikriptofiyatlari.com/znd-zenad-fiyati.html
 
 Repose CX: https://repose.cx/en/coin/znd
+
+Xcoincharts: http://xcoincharts.site/coin/ZND
