@@ -525,3 +525,5 @@ CanliKriptoFiyatlari: https://www.canlikriptofiyatlari.com/znd-zenad-fiyati.html
 Repose CX: https://repose.cx/en/coin/znd
 
 Xcoincharts: http://xcoincharts.site/coin/ZND
+
+Rapids Masternode: https://rapids.host/
